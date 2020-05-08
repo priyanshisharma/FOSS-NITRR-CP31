@@ -23,3 +23,6 @@ Better late than never!
 
 **7 May**
 * Problem 11 - Lowest common ancestor of a binary tree
+
+**8 May**
+* Problem 12 - Binary Tree Inorder Traversal
