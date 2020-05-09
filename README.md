@@ -26,3 +26,7 @@ Better late than never!
 
 **8 May**
 * Problem 12 - Binary Tree Inorder Traversal
+
+**9 May**
+* Problem 13 - Valid Anagram
+* Problem 14 - Group Anagrams
