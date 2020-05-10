@@ -30,3 +30,7 @@ Better late than never!
 **9 May**
 * Problem 13 - Valid Anagram
 * Problem 14 - Group Anagrams
+
+**10 May**
+* Problem 15 - Same Tree
+* Problem 16 - Validate Binary Search Tree
