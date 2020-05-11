@@ -34,3 +34,7 @@ Better late than never!
 **10 May**
 * Problem 15 - Same Tree
 * Problem 16 - Validate Binary Search Tree
+
+**11 May**
+* Problem 17 - Balanced Binary Tree
+* Problem 18 - Unique Binary Search Tree
