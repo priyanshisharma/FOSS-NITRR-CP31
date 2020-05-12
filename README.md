@@ -38,3 +38,7 @@ Better late than never!
 **11 May**
 * Problem 17 - Balanced Binary Tree
 * Problem 18 - Unique Binary Search Tree
+
+**12 May**
+* Problem 19 - Reformat the String
+* Problem 20 - Rotate Array
