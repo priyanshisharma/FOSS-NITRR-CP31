@@ -42,3 +42,6 @@ Better late than never!
 **12 May**
 * Problem 19 - Reformat the String
 * Problem 20 - Rotate Array
+
+**13 May**
+* Problem 21 - Search in a Binary Search Tree
