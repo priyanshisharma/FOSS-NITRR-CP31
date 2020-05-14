@@ -45,3 +45,6 @@ Better late than never!
 
 **13 May**
 * Problem 21 - Search in a Binary Search Tree
+
+**14 May**
+* Problem 22 - Reverse words in a string
