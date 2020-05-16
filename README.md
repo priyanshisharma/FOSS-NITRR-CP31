@@ -51,3 +51,7 @@ Better late than never!
 
 **15 May**
 * Problem 23 - Flatten a Binary Tree to Linked List
+
+**16 May**
+* Problem 24 - Design Linked List
+* Problem 25 - Number of Islands
