@@ -58,3 +58,12 @@ Better late than never!
 
 **17 May**
 * Problem 26 - Smallest Subtree with all deepest nodes
+
+**18 May**
+* Problem 27 - Binary Tree Zig Zag Traversal
+
+**19 May**
+* Problem 28 - Sum Root to Leaf
+
+**20 May**
+* Performed basic Python problems, and one from Java on Hackerrank. Check out the folder for more!
