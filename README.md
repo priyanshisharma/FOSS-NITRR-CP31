@@ -67,3 +67,6 @@ Better late than never!
 
 **20 May**
 * Performed basic Python problems, and one from Java on Hackerrank. Check out the folder for more!
+
+**21 May**
+* Problem 29 - String to Integer (atoi)
