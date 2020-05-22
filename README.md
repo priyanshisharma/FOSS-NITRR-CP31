@@ -70,3 +70,6 @@ Better late than never!
 
 **21 May**
 * Problem 29 - String to Integer (atoi)
+
+**22 May**
+* Problem 30 - First Missing Positive
