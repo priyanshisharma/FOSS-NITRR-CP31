@@ -73,3 +73,13 @@ Better late than never!
 
 **22 May**
 * Problem 30 - First Missing Positive
+
+**23 May**
+* Problem 31 - Permutations
+* Problem 32 - Permutations II
+
+**24 May**
+* Problem 33 - K Closest Points to Origin
+
+**25 May**
+* Problem 34 - Longest Uncommon Subsequence
