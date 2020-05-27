@@ -83,3 +83,10 @@ Better late than never!
 
 **25 May**
 * Problem 34 - Longest Uncommon Subsequence
+
+**26 May**
+* Problem 35 - Maximum Level Sum of a Binary Tree
+* Problem 36 - Binary Level Order Traversal II
+
+**27 May**
+* Problem 37 - Sudoku Solver
