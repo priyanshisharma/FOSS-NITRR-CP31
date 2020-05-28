@@ -90,3 +90,7 @@ Better late than never!
 
 **27 May**
 * Problem 37 - Sudoku Solver
+
+**28 May**
+* Problem 38 - Most Common Word
+* Problem 39 - Two Sum
